@@ -344,6 +344,7 @@ export const App: React.FC = () => {
           <span>Tinnitune · 100% private in-browser Web Audio · Hard safety limiter ≤ −6 dBFS</span>
           <span>Not a medical device · Works offline</span>
         </div>
+        <div className="algoty-links">More from Algoty: <a href="https://thock.algoty.com/" target="_blank" rel="noopener noreferrer">Thock Lab</a> <a href="https://perchy.algoty.com/" target="_blank" rel="noopener noreferrer">Perchy</a></div>
       </footer>
 
       <div className="sr-only" role="status">

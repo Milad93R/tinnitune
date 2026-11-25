@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://tinnitune.algoty.com/sitemap.xml

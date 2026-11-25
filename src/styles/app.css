@@ -685,3 +685,7 @@ body:has(.note-input:focus) .toast-banner { visibility: hidden; }
   .share-sheet[open] { align-items: center; }
   .share-sheet-panel { width: min(100%, 660px); }
 }
+
+/* Related Algoty products */
+.algoty-links { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .35rem .75rem; padding: .5rem .75rem; font-size: .75rem; line-height: 1.5; color: inherit; }
+.algoty-links a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
